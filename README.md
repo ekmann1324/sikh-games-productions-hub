@@ -1,2 +1,1 @@
-# sikh-games-productions-hub
-Official Sikh Games Productions website hub
+# Sikh Games Productions Hub\n\nOfficial responsive website for Sikh Games Productions.\n\nTicket registration remains on the existing PageRush page: https://sikhgamingproductionshub.pagerush.online/pages/p-pop-culture-world-tour-2026-tickets\n\nHosted with GitHub Pages.
